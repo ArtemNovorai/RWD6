@@ -27,21 +27,21 @@
         background: #ff1600;
         height: 100px;
         flex: 100%;
-    
+        order: 0;
     }
     .orange {
         margin-top: 10px;
         height: 200px;
         flex: 100%;
         background:#f59b00;
-
+        order: 2;
     }
     .container {
         margin-top: 10px;
         display: flex;
         flex-wrap: wrap;
         flex-basis: 100%;
-      
+        order: 1;
     }
     .yellow1 {
         background: #fff200;
@@ -53,21 +53,21 @@
         background:#40ff00;
         height: 200px;
         flex:  100%;
-       
+        order: 3;
     }
     .pink {
         margin-top: 10px;
         background: #ff00c9;
         height: 200px;
         flex:  100%;
-     
+        order: 4;
     }
     .blue {
         margin-top: 10px;
         background: #2200ff;
         height: 200px;
         flex:  100%;
-     
+        order: 5;
     }
 }
         /*tablet*/
@@ -94,21 +94,21 @@
         background:#ff1600;
         height: 100px;
         flex: 100%;
-   
+        order: 0;
     }
     .orange {
         margin-top: 10px;
         height: 200px;
         flex-basis: 65%;
         background: #f59b00;
-    
+        order: 1;
     }
     .container {
         margin-top: 10px;
         display: flex;
         flex-wrap: wrap;
         flex-basis: 100%;
-  
+        order: 3;
     }
     .yellow1 {
         background: #fff200;
@@ -120,21 +120,21 @@
         width: 34%;
         height: 200px;
         background:#40ff00;
-
+        order: 2;
     }
     .pink {
         margin-top: 10px;
         background:  #ff00c9;
         height: 400px;
         flex: 100%;
-     
+        order: 4;
     }
     .blue {
         margin-top: 10px;
         background: #2200ff;
         height: 200px;
         flex:  100%;
- 
+         order: 5;
     }
 }
         /*desktop*/
@@ -157,21 +157,21 @@
         background: #ff1600;
         height: 100px;
         flex: 100%;
-     
+        order: 0;
     }
     .orange {
         margin-top: 10px;
         height: 200px;
         flex:  100%;
         background: #f59b00;
-      
+        order: 1;
     }
     .container {
         margin-top: 10px;
         display: flex;
         flex-wrap: wrap;
         flex: 76%;
-      
+        order: 2;
     }
     .yellow1 {
         height: 200px;
@@ -210,7 +210,7 @@
         width: 20.3%;
         height: 300px;
         background: #40ff00;
-    
+        order: 3;
  
     }
     .pink {
@@ -218,7 +218,7 @@
         background: #ff00c9;
         height: 700px;
         flex: 75%;
-   
+        order: 4;
     }
     .blue {
         margin-top: -100px;
@@ -226,6 +226,6 @@
         background: #2200ff;
         height: 400px;
         flex: 17%;
-   
+        order: 5;
     }
 }
