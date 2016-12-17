@@ -174,9 +174,8 @@
         order: 2;
     }
     .yellow1 {
-        height: 200px;
-        margin-top: 10px;
-        margin-right: 20px;
+        height: 200px; 
+        margin-right: 10px;
         flex: 35%;
         background: #fff200;
     
@@ -184,8 +183,7 @@
     .yellow2 {
         height: 200px;
         flex: 35%;
-        margin-top: 10px;
-        margin-right: 20px;
+        margin-right: 10px;
         background: #fff200;
        
     }
@@ -193,7 +191,7 @@
         height: 200px;
         flex: 35%;
         margin-top: 10px;
-        margin-right: 20px;
+        margin-right: 10px;
         background: #fff200;
  
     }
@@ -201,12 +199,12 @@
         height: 200px;
         flex: 35%;
         margin-top: 10px;
-        margin-right: 20px;
+        margin-right: 10px;
         background:#fff200;
   
     }
     .green {
-        margin-top: 20px;
+        margin-top: 10px;
         width: 20.3%;
         height: 300px;
         background: #40ff00;
