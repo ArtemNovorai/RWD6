@@ -215,12 +215,12 @@
         margin-top: 10px;
         background: #ff00c9;
         height: 700px;
-        flex: 76.5%;
+        flex: 77.5%;
         order: 4;
     }
     .blue {
         margin-top: -100px;
-        margin-left: 20px;
+        margin-left: 10px;
         background: #2200ff;
         height: 400px;
         flex: 19%;
